@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,700&subset=cyrillic');
+
+
+a {
+	text-decoration: none;
+}
+
+body {
+	overflow: hidden;
+	font-family: 'Open Sans', sans-serif;
+
+
+
+	-webkit-perspective: 800;
+	-moz-perspective: 800;
+	perspective: 800;
+	-webkit-perspective: 800px;
+	-moz-perspective: 800px;
+	perspective: 800px;
+
+	background: #303641;
+	-webkit-transition: 400ms all ease-in-out;
+	-moz-transition: 400ms all ease-in-out;
+	-o-transition: 400ms all ease-in-out;
+	transition: 400ms all ease-in-out;
+	-webkit-transform-origin: 50% 30%;
+	-moz-transform-origin: 50% 30%;
+	-ms-transform-origin: 50% 30%;
+	-o-transform-origin: 50% 30%;
+	transform-origin: 50% 30%;
+
+}
+
+::-webkit-scrollbar {
+	width: 10px;
+}
+
+::-webkit-scrollbar-track {
+	background-color: #ccc
+}
+
+::-webkit-scrollbar-thumb {
+	background-color: #ddd;
+	outline: 1px solid #bbb;
+}

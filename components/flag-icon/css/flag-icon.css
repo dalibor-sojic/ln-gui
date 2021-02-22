@@ -1,0 +1,1559 @@
+.flag {
+  line-height: 1em;
+}
+.flag:before {
+  content: "";
+  background-size: contain;
+  background-position: 50%;
+  background-repeat: no-repeat;
+  position: relative;
+  display: inline-block;
+  width: 1.33333333em;
+  height: 1em;
+  margin-right: 5px;
+}
+.flag.squared:before {
+  width: 1em;
+}
+.flag.ad:before {
+  background-image: url(../flags/4x3/ad.svg);
+}
+.flag.ad.squared:before {
+  background-image: url(../flags/1x1/ad.svg);
+}
+.flag.ae:before {
+  background-image: url(../flags/4x3/ae.svg);
+}
+.flag.ae.squared:before {
+  background-image: url(../flags/1x1/ae.svg);
+}
+.flag.af:before {
+  background-image: url(../flags/4x3/af.svg);
+}
+.flag.af.squared:before {
+  background-image: url(../flags/1x1/af.svg);
+}
+.flag.ag:before {
+  background-image: url(../flags/4x3/ag.svg);
+}
+.flag.ag.squared:before {
+  background-image: url(../flags/1x1/ag.svg);
+}
+.flag.ai:before {
+  background-image: url(../flags/4x3/ai.svg);
+}
+.flag.ai.squared:before {
+  background-image: url(../flags/1x1/ai.svg);
+}
+.flag.al:before {
+  background-image: url(../flags/4x3/al.svg);
+}
+.flag.al.squared:before {
+  background-image: url(../flags/1x1/al.svg);
+}
+.flag.am:before {
+  background-image: url(../flags/4x3/am.svg);
+}
+.flag.am.squared:before {
+  background-image: url(../flags/1x1/am.svg);
+}
+.flag.ao:before {
+  background-image: url(../flags/4x3/ao.svg);
+}
+.flag.ao.squared:before {
+  background-image: url(../flags/1x1/ao.svg);
+}
+.flag.aq:before {
+  background-image: url(../flags/4x3/aq.svg);
+}
+.flag.aq.squared:before {
+  background-image: url(../flags/1x1/aq.svg);
+}
+.flag.ar:before {
+  background-image: url(../flags/4x3/ar.svg);
+}
+.flag.ar.squared:before {
+  background-image: url(../flags/1x1/ar.svg);
+}
+.flag.as:before {
+  background-image: url(../flags/4x3/as.svg);
+}
+.flag.as.squared:before {
+  background-image: url(../flags/1x1/as.svg);
+}
+.flag.at:before {
+  background-image: url(../flags/4x3/at.svg);
+}
+.flag.at.squared:before {
+  background-image: url(../flags/1x1/at.svg);
+}
+.flag.au:before {
+  background-image: url(../flags/4x3/au.svg);
+}
+.flag.au.squared:before {
+  background-image: url(../flags/1x1/au.svg);
+}
+.flag.aw:before {
+  background-image: url(../flags/4x3/aw.svg);
+}
+.flag.aw.squared:before {
+  background-image: url(../flags/1x1/aw.svg);
+}
+.flag.ax:before {
+  background-image: url(../flags/4x3/ax.svg);
+}
+.flag.ax.squared:before {
+  background-image: url(../flags/1x1/ax.svg);
+}
+.flag.az:before {
+  background-image: url(../flags/4x3/az.svg);
+}
+.flag.az.squared:before {
+  background-image: url(../flags/1x1/az.svg);
+}
+.flag.ba:before {
+  background-image: url(../flags/4x3/ba.svg);
+}
+.flag.ba.squared:before {
+  background-image: url(../flags/1x1/ba.svg);
+}
+.flag.bb:before {
+  background-image: url(../flags/4x3/bb.svg);
+}
+.flag.bb.squared:before {
+  background-image: url(../flags/1x1/bb.svg);
+}
+.flag.bd:before {
+  background-image: url(../flags/4x3/bd.svg);
+}
+.flag.bd.squared:before {
+  background-image: url(../flags/1x1/bd.svg);
+}
+.flag.be:before {
+  background-image: url(../flags/4x3/be.svg);
+}
+.flag.be.squared:before {
+  background-image: url(../flags/1x1/be.svg);
+}
+.flag.bf:before {
+  background-image: url(../flags/4x3/bf.svg);
+}
+.flag.bf.squared:before {
+  background-image: url(../flags/1x1/bf.svg);
+}
+.flag.bg:before {
+  background-image: url(../flags/4x3/bg.svg);
+}
+.flag.bg.squared:before {
+  background-image: url(../flags/1x1/bg.svg);
+}
+.flag.bh:before {
+  background-image: url(../flags/4x3/bh.svg);
+}
+.flag.bh.squared:before {
+  background-image: url(../flags/1x1/bh.svg);
+}
+.flag.bi:before {
+  background-image: url(../flags/4x3/bi.svg);
+}
+.flag.bi.squared:before {
+  background-image: url(../flags/1x1/bi.svg);
+}
+.flag.bj:before {
+  background-image: url(../flags/4x3/bj.svg);
+}
+.flag.bj.squared:before {
+  background-image: url(../flags/1x1/bj.svg);
+}
+.flag.bl:before {
+  background-image: url(../flags/4x3/bl.svg);
+}
+.flag.bl.squared:before {
+  background-image: url(../flags/1x1/bl.svg);
+}
+.flag.bm:before {
+  background-image: url(../flags/4x3/bm.svg);
+}
+.flag.bm.squared:before {
+  background-image: url(../flags/1x1/bm.svg);
+}
+.flag.bn:before {
+  background-image: url(../flags/4x3/bn.svg);
+}
+.flag.bn.squared:before {
+  background-image: url(../flags/1x1/bn.svg);
+}
+.flag.bo:before {
+  background-image: url(../flags/4x3/bo.svg);
+}
+.flag.bo.squared:before {
+  background-image: url(../flags/1x1/bo.svg);
+}
+.flag.bq:before {
+  background-image: url(../flags/4x3/bq.svg);
+}
+.flag.bq.squared:before {
+  background-image: url(../flags/1x1/bq.svg);
+}
+.flag.br:before {
+  background-image: url(../flags/4x3/br.svg);
+}
+.flag.br.squared:before {
+  background-image: url(../flags/1x1/br.svg);
+}
+.flag.bs:before {
+  background-image: url(../flags/4x3/bs.svg);
+}
+.flag.bs.squared:before {
+  background-image: url(../flags/1x1/bs.svg);
+}
+.flag.bt:before {
+  background-image: url(../flags/4x3/bt.svg);
+}
+.flag.bt.squared:before {
+  background-image: url(../flags/1x1/bt.svg);
+}
+.flag.bv:before {
+  background-image: url(../flags/4x3/bv.svg);
+}
+.flag.bv.squared:before {
+  background-image: url(../flags/1x1/bv.svg);
+}
+.flag.bw:before {
+  background-image: url(../flags/4x3/bw.svg);
+}
+.flag.bw.squared:before {
+  background-image: url(../flags/1x1/bw.svg);
+}
+.flag.by:before {
+  background-image: url(../flags/4x3/by.svg);
+}
+.flag.by.squared:before {
+  background-image: url(../flags/1x1/by.svg);
+}
+.flag.bz:before {
+  background-image: url(../flags/4x3/bz.svg);
+}
+.flag.bz.squared:before {
+  background-image: url(../flags/1x1/bz.svg);
+}
+.flag.ca:before {
+  background-image: url(../flags/4x3/ca.svg);
+}
+.flag.ca.squared:before {
+  background-image: url(../flags/1x1/ca.svg);
+}
+.flag.cc:before {
+  background-image: url(../flags/4x3/cc.svg);
+}
+.flag.cc.squared:before {
+  background-image: url(../flags/1x1/cc.svg);
+}
+.flag.cd:before {
+  background-image: url(../flags/4x3/cd.svg);
+}
+.flag.cd.squared:before {
+  background-image: url(../flags/1x1/cd.svg);
+}
+.flag.cf:before {
+  background-image: url(../flags/4x3/cf.svg);
+}
+.flag.cf.squared:before {
+  background-image: url(../flags/1x1/cf.svg);
+}
+.flag.cg:before {
+  background-image: url(../flags/4x3/cg.svg);
+}
+.flag.cg.squared:before {
+  background-image: url(../flags/1x1/cg.svg);
+}
+.flag.ch:before {
+  background-image: url(../flags/4x3/ch.svg);
+}
+.flag.ch.squared:before {
+  background-image: url(../flags/1x1/ch.svg);
+}
+.flag.ci:before {
+  background-image: url(../flags/4x3/ci.svg);
+}
+.flag.ci.squared:before {
+  background-image: url(../flags/1x1/ci.svg);
+}
+.flag.ck:before {
+  background-image: url(../flags/4x3/ck.svg);
+}
+.flag.ck.squared:before {
+  background-image: url(../flags/1x1/ck.svg);
+}
+.flag.cl:before {
+  background-image: url(../flags/4x3/cl.svg);
+}
+.flag.cl.squared:before {
+  background-image: url(../flags/1x1/cl.svg);
+}
+.flag.cm:before {
+  background-image: url(../flags/4x3/cm.svg);
+}
+.flag.cm.squared:before {
+  background-image: url(../flags/1x1/cm.svg);
+}
+.flag.cn:before {
+  background-image: url(../flags/4x3/cn.svg);
+}
+.flag.cn.squared:before {
+  background-image: url(../flags/1x1/cn.svg);
+}
+.flag.co:before {
+  background-image: url(../flags/4x3/co.svg);
+}
+.flag.co.squared:before {
+  background-image: url(../flags/1x1/co.svg);
+}
+.flag.cr:before {
+  background-image: url(../flags/4x3/cr.svg);
+}
+.flag.cr.squared:before {
+  background-image: url(../flags/1x1/cr.svg);
+}
+.flag.cu:before {
+  background-image: url(../flags/4x3/cu.svg);
+}
+.flag.cu.squared:before {
+  background-image: url(../flags/1x1/cu.svg);
+}
+.flag.cv:before {
+  background-image: url(../flags/4x3/cv.svg);
+}
+.flag.cv.squared:before {
+  background-image: url(../flags/1x1/cv.svg);
+}
+.flag.cw:before {
+  background-image: url(../flags/4x3/cw.svg);
+}
+.flag.cw.squared:before {
+  background-image: url(../flags/1x1/cw.svg);
+}
+.flag.cx:before {
+  background-image: url(../flags/4x3/cx.svg);
+}
+.flag.cx.squared:before {
+  background-image: url(../flags/1x1/cx.svg);
+}
+.flag.cy:before {
+  background-image: url(../flags/4x3/cy.svg);
+}
+.flag.cy.squared:before {
+  background-image: url(../flags/1x1/cy.svg);
+}
+.flag.cz:before {
+  background-image: url(../flags/4x3/cz.svg);
+}
+.flag.cz.squared:before {
+  background-image: url(../flags/1x1/cz.svg);
+}
+.flag.de:before {
+  background-image: url(../flags/4x3/de.svg);
+}
+.flag.de.squared:before {
+  background-image: url(../flags/1x1/de.svg);
+}
+.flag.dj:before {
+  background-image: url(../flags/4x3/dj.svg);
+}
+.flag.dj.squared:before {
+  background-image: url(../flags/1x1/dj.svg);
+}
+.flag.dk:before {
+  background-image: url(../flags/4x3/dk.svg);
+}
+.flag.dk.squared:before {
+  background-image: url(../flags/1x1/dk.svg);
+}
+.flag.dm:before {
+  background-image: url(../flags/4x3/dm.svg);
+}
+.flag.dm.squared:before {
+  background-image: url(../flags/1x1/dm.svg);
+}
+.flag.do:before {
+  background-image: url(../flags/4x3/do.svg);
+}
+.flag.do.squared:before {
+  background-image: url(../flags/1x1/do.svg);
+}
+.flag.dz:before {
+  background-image: url(../flags/4x3/dz.svg);
+}
+.flag.dz.squared:before {
+  background-image: url(../flags/1x1/dz.svg);
+}
+.flag.ec:before {
+  background-image: url(../flags/4x3/ec.svg);
+}
+.flag.ec.squared:before {
+  background-image: url(../flags/1x1/ec.svg);
+}
+.flag.ee:before {
+  background-image: url(../flags/4x3/ee.svg);
+}
+.flag.ee.squared:before {
+  background-image: url(../flags/1x1/ee.svg);
+}
+.flag.eg:before {
+  background-image: url(../flags/4x3/eg.svg);
+}
+.flag.eg.squared:before {
+  background-image: url(../flags/1x1/eg.svg);
+}
+.flag.eh:before {
+  background-image: url(../flags/4x3/eh.svg);
+}
+.flag.eh.squared:before {
+  background-image: url(../flags/1x1/eh.svg);
+}
+.flag.er:before {
+  background-image: url(../flags/4x3/er.svg);
+}
+.flag.er.squared:before {
+  background-image: url(../flags/1x1/er.svg);
+}
+.flag.es:before {
+  background-image: url(../flags/4x3/es.svg);
+}
+.flag.es.squared:before {
+  background-image: url(../flags/1x1/es.svg);
+}
+.flag.et:before {
+  background-image: url(../flags/4x3/et.svg);
+}
+.flag.et.squared:before {
+  background-image: url(../flags/1x1/et.svg);
+}
+.flag.fi:before {
+  background-image: url(../flags/4x3/fi.svg);
+}
+.flag.fi.squared:before {
+  background-image: url(../flags/1x1/fi.svg);
+}
+.flag.fj:before {
+  background-image: url(../flags/4x3/fj.svg);
+}
+.flag.fj.squared:before {
+  background-image: url(../flags/1x1/fj.svg);
+}
+.flag.fk:before {
+  background-image: url(../flags/4x3/fk.svg);
+}
+.flag.fk.squared:before {
+  background-image: url(../flags/1x1/fk.svg);
+}
+.flag.fm:before {
+  background-image: url(../flags/4x3/fm.svg);
+}
+.flag.fm.squared:before {
+  background-image: url(../flags/1x1/fm.svg);
+}
+.flag.fo:before {
+  background-image: url(../flags/4x3/fo.svg);
+}
+.flag.fo.squared:before {
+  background-image: url(../flags/1x1/fo.svg);
+}
+.flag.fr:before {
+  background-image: url(../flags/4x3/fr.svg);
+}
+.flag.fr.squared:before {
+  background-image: url(../flags/1x1/fr.svg);
+}
+.flag.ga:before {
+  background-image: url(../flags/4x3/ga.svg);
+}
+.flag.ga.squared:before {
+  background-image: url(../flags/1x1/ga.svg);
+}
+.flag.gb:before {
+  background-image: url(../flags/4x3/gb.svg);
+}
+.flag.gb.squared:before {
+  background-image: url(../flags/1x1/gb.svg);
+}
+.flag.gd:before {
+  background-image: url(../flags/4x3/gd.svg);
+}
+.flag.gd.squared:before {
+  background-image: url(../flags/1x1/gd.svg);
+}
+.flag.ge:before {
+  background-image: url(../flags/4x3/ge.svg);
+}
+.flag.ge.squared:before {
+  background-image: url(../flags/1x1/ge.svg);
+}
+.flag.gf:before {
+  background-image: url(../flags/4x3/gf.svg);
+}
+.flag.gf.squared:before {
+  background-image: url(../flags/1x1/gf.svg);
+}
+.flag.gg:before {
+  background-image: url(../flags/4x3/gg.svg);
+}
+.flag.gg.squared:before {
+  background-image: url(../flags/1x1/gg.svg);
+}
+.flag.gh:before {
+  background-image: url(../flags/4x3/gh.svg);
+}
+.flag.gh.squared:before {
+  background-image: url(../flags/1x1/gh.svg);
+}
+.flag.gi:before {
+  background-image: url(../flags/4x3/gi.svg);
+}
+.flag.gi.squared:before {
+  background-image: url(../flags/1x1/gi.svg);
+}
+.flag.gl:before {
+  background-image: url(../flags/4x3/gl.svg);
+}
+.flag.gl.squared:before {
+  background-image: url(../flags/1x1/gl.svg);
+}
+.flag.gm:before {
+  background-image: url(../flags/4x3/gm.svg);
+}
+.flag.gm.squared:before {
+  background-image: url(../flags/1x1/gm.svg);
+}
+.flag.gn:before {
+  background-image: url(../flags/4x3/gn.svg);
+}
+.flag.gn.squared:before {
+  background-image: url(../flags/1x1/gn.svg);
+}
+.flag.gp:before {
+  background-image: url(../flags/4x3/gp.svg);
+}
+.flag.gp.squared:before {
+  background-image: url(../flags/1x1/gp.svg);
+}
+.flag.gq:before {
+  background-image: url(../flags/4x3/gq.svg);
+}
+.flag.gq.squared:before {
+  background-image: url(../flags/1x1/gq.svg);
+}
+.flag.gr:before {
+  background-image: url(../flags/4x3/gr.svg);
+}
+.flag.gr.squared:before {
+  background-image: url(../flags/1x1/gr.svg);
+}
+.flag.gs:before {
+  background-image: url(../flags/4x3/gs.svg);
+}
+.flag.gs.squared:before {
+  background-image: url(../flags/1x1/gs.svg);
+}
+.flag.gt:before {
+  background-image: url(../flags/4x3/gt.svg);
+}
+.flag.gt.squared:before {
+  background-image: url(../flags/1x1/gt.svg);
+}
+.flag.gu:before {
+  background-image: url(../flags/4x3/gu.svg);
+}
+.flag.gu.squared:before {
+  background-image: url(../flags/1x1/gu.svg);
+}
+.flag.gw:before {
+  background-image: url(../flags/4x3/gw.svg);
+}
+.flag.gw.squared:before {
+  background-image: url(../flags/1x1/gw.svg);
+}
+.flag.gy:before {
+  background-image: url(../flags/4x3/gy.svg);
+}
+.flag.gy.squared:before {
+  background-image: url(../flags/1x1/gy.svg);
+}
+.flag.hk:before {
+  background-image: url(../flags/4x3/hk.svg);
+}
+.flag.hk.squared:before {
+  background-image: url(../flags/1x1/hk.svg);
+}
+.flag.hm:before {
+  background-image: url(../flags/4x3/hm.svg);
+}
+.flag.hm.squared:before {
+  background-image: url(../flags/1x1/hm.svg);
+}
+.flag.hn:before {
+  background-image: url(../flags/4x3/hn.svg);
+}
+.flag.hn.squared:before {
+  background-image: url(../flags/1x1/hn.svg);
+}
+.flag.hr:before {
+  background-image: url(../flags/4x3/hr.svg);
+}
+.flag.hr.squared:before {
+  background-image: url(../flags/1x1/hr.svg);
+}
+.flag.ht:before {
+  background-image: url(../flags/4x3/ht.svg);
+}
+.flag.ht.squared:before {
+  background-image: url(../flags/1x1/ht.svg);
+}
+.flag.hu:before {
+  background-image: url(../flags/4x3/hu.svg);
+}
+.flag.hu.squared:before {
+  background-image: url(../flags/1x1/hu.svg);
+}
+.flag.id:before {
+  background-image: url(../flags/4x3/id.svg);
+}
+.flag.id.squared:before {
+  background-image: url(../flags/1x1/id.svg);
+}
+.flag.ie:before {
+  background-image: url(../flags/4x3/ie.svg);
+}
+.flag.ie.squared:before {
+  background-image: url(../flags/1x1/ie.svg);
+}
+.flag.il:before {
+  background-image: url(../flags/4x3/il.svg);
+}
+.flag.il.squared:before {
+  background-image: url(../flags/1x1/il.svg);
+}
+.flag.im:before {
+  background-image: url(../flags/4x3/im.svg);
+}
+.flag.im.squared:before {
+  background-image: url(../flags/1x1/im.svg);
+}
+.flag.in:before {
+  background-image: url(../flags/4x3/in.svg);
+}
+.flag.in.squared:before {
+  background-image: url(../flags/1x1/in.svg);
+}
+.flag.io:before {
+  background-image: url(../flags/4x3/io.svg);
+}
+.flag.io.squared:before {
+  background-image: url(../flags/1x1/io.svg);
+}
+.flag.iq:before {
+  background-image: url(../flags/4x3/iq.svg);
+}
+.flag.iq.squared:before {
+  background-image: url(../flags/1x1/iq.svg);
+}
+.flag.ir:before {
+  background-image: url(../flags/4x3/ir.svg);
+}
+.flag.ir.squared:before {
+  background-image: url(../flags/1x1/ir.svg);
+}
+.flag.is:before {
+  background-image: url(../flags/4x3/is.svg);
+}
+.flag.is.squared:before {
+  background-image: url(../flags/1x1/is.svg);
+}
+.flag.it:before {
+  background-image: url(../flags/4x3/it.svg);
+}
+.flag.it.squared:before {
+  background-image: url(../flags/1x1/it.svg);
+}
+.flag.je:before {
+  background-image: url(../flags/4x3/je.svg);
+}
+.flag.je.squared:before {
+  background-image: url(../flags/1x1/je.svg);
+}
+.flag.jm:before {
+  background-image: url(../flags/4x3/jm.svg);
+}
+.flag.jm.squared:before {
+  background-image: url(../flags/1x1/jm.svg);
+}
+.flag.jo:before {
+  background-image: url(../flags/4x3/jo.svg);
+}
+.flag.jo.squared:before {
+  background-image: url(../flags/1x1/jo.svg);
+}
+.flag.jp:before {
+  background-image: url(../flags/4x3/jp.svg);
+}
+.flag.jp.squared:before {
+  background-image: url(../flags/1x1/jp.svg);
+}
+.flag.ke:before {
+  background-image: url(../flags/4x3/ke.svg);
+}
+.flag.ke.squared:before {
+  background-image: url(../flags/1x1/ke.svg);
+}
+.flag.kg:before {
+  background-image: url(../flags/4x3/kg.svg);
+}
+.flag.kg.squared:before {
+  background-image: url(../flags/1x1/kg.svg);
+}
+.flag.kh:before {
+  background-image: url(../flags/4x3/kh.svg);
+}
+.flag.kh.squared:before {
+  background-image: url(../flags/1x1/kh.svg);
+}
+.flag.ki:before {
+  background-image: url(../flags/4x3/ki.svg);
+}
+.flag.ki.squared:before {
+  background-image: url(../flags/1x1/ki.svg);
+}
+.flag.km:before {
+  background-image: url(../flags/4x3/km.svg);
+}
+.flag.km.squared:before {
+  background-image: url(../flags/1x1/km.svg);
+}
+.flag.kn:before {
+  background-image: url(../flags/4x3/kn.svg);
+}
+.flag.kn.squared:before {
+  background-image: url(../flags/1x1/kn.svg);
+}
+.flag.kp:before {
+  background-image: url(../flags/4x3/kp.svg);
+}
+.flag.kp.squared:before {
+  background-image: url(../flags/1x1/kp.svg);
+}
+.flag.kr:before {
+  background-image: url(../flags/4x3/kr.svg);
+}
+.flag.kr.squared:before {
+  background-image: url(../flags/1x1/kr.svg);
+}
+.flag.kw:before {
+  background-image: url(../flags/4x3/kw.svg);
+}
+.flag.kw.squared:before {
+  background-image: url(../flags/1x1/kw.svg);
+}
+.flag.ky:before {
+  background-image: url(../flags/4x3/ky.svg);
+}
+.flag.ky.squared:before {
+  background-image: url(../flags/1x1/ky.svg);
+}
+.flag.kz:before {
+  background-image: url(../flags/4x3/kz.svg);
+}
+.flag.kz.squared:before {
+  background-image: url(../flags/1x1/kz.svg);
+}
+.flag.la:before {
+  background-image: url(../flags/4x3/la.svg);
+}
+.flag.la.squared:before {
+  background-image: url(../flags/1x1/la.svg);
+}
+.flag.lb:before {
+  background-image: url(../flags/4x3/lb.svg);
+}
+.flag.lb.squared:before {
+  background-image: url(../flags/1x1/lb.svg);
+}
+.flag.lc:before {
+  background-image: url(../flags/4x3/lc.svg);
+}
+.flag.lc.squared:before {
+  background-image: url(../flags/1x1/lc.svg);
+}
+.flag.li:before {
+  background-image: url(../flags/4x3/li.svg);
+}
+.flag.li.squared:before {
+  background-image: url(../flags/1x1/li.svg);
+}
+.flag.lk:before {
+  background-image: url(../flags/4x3/lk.svg);
+}
+.flag.lk.squared:before {
+  background-image: url(../flags/1x1/lk.svg);
+}
+.flag.lr:before {
+  background-image: url(../flags/4x3/lr.svg);
+}
+.flag.lr.squared:before {
+  background-image: url(../flags/1x1/lr.svg);
+}
+.flag.ls:before {
+  background-image: url(../flags/4x3/ls.svg);
+}
+.flag.ls.squared:before {
+  background-image: url(../flags/1x1/ls.svg);
+}
+.flag.lt:before {
+  background-image: url(../flags/4x3/lt.svg);
+}
+.flag.lt.squared:before {
+  background-image: url(../flags/1x1/lt.svg);
+}
+.flag.lu:before {
+  background-image: url(../flags/4x3/lu.svg);
+}
+.flag.lu.squared:before {
+  background-image: url(../flags/1x1/lu.svg);
+}
+.flag.lv:before {
+  background-image: url(../flags/4x3/lv.svg);
+}
+.flag.lv.squared:before {
+  background-image: url(../flags/1x1/lv.svg);
+}
+.flag.ly:before {
+  background-image: url(../flags/4x3/ly.svg);
+}
+.flag.ly.squared:before {
+  background-image: url(../flags/1x1/ly.svg);
+}
+.flag.ma:before {
+  background-image: url(../flags/4x3/ma.svg);
+}
+.flag.ma.squared:before {
+  background-image: url(../flags/1x1/ma.svg);
+}
+.flag.mc:before {
+  background-image: url(../flags/4x3/mc.svg);
+}
+.flag.mc.squared:before {
+  background-image: url(../flags/1x1/mc.svg);
+}
+.flag.md:before {
+  background-image: url(../flags/4x3/md.svg);
+}
+.flag.md.squared:before {
+  background-image: url(../flags/1x1/md.svg);
+}
+.flag.me:before {
+  background-image: url(../flags/4x3/me.svg);
+}
+.flag.me.squared:before {
+  background-image: url(../flags/1x1/me.svg);
+}
+.flag.mf:before {
+  background-image: url(../flags/4x3/mf.svg);
+}
+.flag.mf.squared:before {
+  background-image: url(../flags/1x1/mf.svg);
+}
+.flag.mg:before {
+  background-image: url(../flags/4x3/mg.svg);
+}
+.flag.mg.squared:before {
+  background-image: url(../flags/1x1/mg.svg);
+}
+.flag.mh:before {
+  background-image: url(../flags/4x3/mh.svg);
+}
+.flag.mh.squared:before {
+  background-image: url(../flags/1x1/mh.svg);
+}
+.flag.mk:before {
+  background-image: url(../flags/4x3/mk.svg);
+}
+.flag.mk.squared:before {
+  background-image: url(../flags/1x1/mk.svg);
+}
+.flag.ml:before {
+  background-image: url(../flags/4x3/ml.svg);
+}
+.flag.ml.squared:before {
+  background-image: url(../flags/1x1/ml.svg);
+}
+.flag.mm:before {
+  background-image: url(../flags/4x3/mm.svg);
+}
+.flag.mm.squared:before {
+  background-image: url(../flags/1x1/mm.svg);
+}
+.flag.mn:before {
+  background-image: url(../flags/4x3/mn.svg);
+}
+.flag.mn.squared:before {
+  background-image: url(../flags/1x1/mn.svg);
+}
+.flag.mo:before {
+  background-image: url(../flags/4x3/mo.svg);
+}
+.flag.mo.squared:before {
+  background-image: url(../flags/1x1/mo.svg);
+}
+.flag.mp:before {
+  background-image: url(../flags/4x3/mp.svg);
+}
+.flag.mp.squared:before {
+  background-image: url(../flags/1x1/mp.svg);
+}
+.flag.mq:before {
+  background-image: url(../flags/4x3/mq.svg);
+}
+.flag.mq.squared:before {
+  background-image: url(../flags/1x1/mq.svg);
+}
+.flag.mr:before {
+  background-image: url(../flags/4x3/mr.svg);
+}
+.flag.mr.squared:before {
+  background-image: url(../flags/1x1/mr.svg);
+}
+.flag.ms:before {
+  background-image: url(../flags/4x3/ms.svg);
+}
+.flag.ms.squared:before {
+  background-image: url(../flags/1x1/ms.svg);
+}
+.flag.mt:before {
+  background-image: url(../flags/4x3/mt.svg);
+}
+.flag.mt.squared:before {
+  background-image: url(../flags/1x1/mt.svg);
+}
+.flag.mu:before {
+  background-image: url(../flags/4x3/mu.svg);
+}
+.flag.mu.squared:before {
+  background-image: url(../flags/1x1/mu.svg);
+}
+.flag.mv:before {
+  background-image: url(../flags/4x3/mv.svg);
+}
+.flag.mv.squared:before {
+  background-image: url(../flags/1x1/mv.svg);
+}
+.flag.mw:before {
+  background-image: url(../flags/4x3/mw.svg);
+}
+.flag.mw.squared:before {
+  background-image: url(../flags/1x1/mw.svg);
+}
+.flag.mx:before {
+  background-image: url(../flags/4x3/mx.svg);
+}
+.flag.mx.squared:before {
+  background-image: url(../flags/1x1/mx.svg);
+}
+.flag.my:before {
+  background-image: url(../flags/4x3/my.svg);
+}
+.flag.my.squared:before {
+  background-image: url(../flags/1x1/my.svg);
+}
+.flag.mz:before {
+  background-image: url(../flags/4x3/mz.svg);
+}
+.flag.mz.squared:before {
+  background-image: url(../flags/1x1/mz.svg);
+}
+.flag.na:before {
+  background-image: url(../flags/4x3/na.svg);
+}
+.flag.na.squared:before {
+  background-image: url(../flags/1x1/na.svg);
+}
+.flag.nc:before {
+  background-image: url(../flags/4x3/nc.svg);
+}
+.flag.nc.squared:before {
+  background-image: url(../flags/1x1/nc.svg);
+}
+.flag.ne:before {
+  background-image: url(../flags/4x3/ne.svg);
+}
+.flag.ne.squared:before {
+  background-image: url(../flags/1x1/ne.svg);
+}
+.flag.nf:before {
+  background-image: url(../flags/4x3/nf.svg);
+}
+.flag.nf.squared:before {
+  background-image: url(../flags/1x1/nf.svg);
+}
+.flag.ng:before {
+  background-image: url(../flags/4x3/ng.svg);
+}
+.flag.ng.squared:before {
+  background-image: url(../flags/1x1/ng.svg);
+}
+.flag.ni:before {
+  background-image: url(../flags/4x3/ni.svg);
+}
+.flag.ni.squared:before {
+  background-image: url(../flags/1x1/ni.svg);
+}
+.flag.nl:before {
+  background-image: url(../flags/4x3/nl.svg);
+}
+.flag.nl.squared:before {
+  background-image: url(../flags/1x1/nl.svg);
+}
+.flag.no:before {
+  background-image: url(../flags/4x3/no.svg);
+}
+.flag.no.squared:before {
+  background-image: url(../flags/1x1/no.svg);
+}
+.flag.np:before {
+  background-image: url(../flags/4x3/np.svg);
+}
+.flag.np.squared:before {
+  background-image: url(../flags/1x1/np.svg);
+}
+.flag.nr:before {
+  background-image: url(../flags/4x3/nr.svg);
+}
+.flag.nr.squared:before {
+  background-image: url(../flags/1x1/nr.svg);
+}
+.flag.nu:before {
+  background-image: url(../flags/4x3/nu.svg);
+}
+.flag.nu.squared:before {
+  background-image: url(../flags/1x1/nu.svg);
+}
+.flag.nz:before {
+  background-image: url(../flags/4x3/nz.svg);
+}
+.flag.nz.squared:before {
+  background-image: url(../flags/1x1/nz.svg);
+}
+.flag.om:before {
+  background-image: url(../flags/4x3/om.svg);
+}
+.flag.om.squared:before {
+  background-image: url(../flags/1x1/om.svg);
+}
+.flag.pa:before {
+  background-image: url(../flags/4x3/pa.svg);
+}
+.flag.pa.squared:before {
+  background-image: url(../flags/1x1/pa.svg);
+}
+.flag.pe:before {
+  background-image: url(../flags/4x3/pe.svg);
+}
+.flag.pe.squared:before {
+  background-image: url(../flags/1x1/pe.svg);
+}
+.flag.pf:before {
+  background-image: url(../flags/4x3/pf.svg);
+}
+.flag.pf.squared:before {
+  background-image: url(../flags/1x1/pf.svg);
+}
+.flag.pg:before {
+  background-image: url(../flags/4x3/pg.svg);
+}
+.flag.pg.squared:before {
+  background-image: url(../flags/1x1/pg.svg);
+}
+.flag.ph:before {
+  background-image: url(../flags/4x3/ph.svg);
+}
+.flag.ph.squared:before {
+  background-image: url(../flags/1x1/ph.svg);
+}
+.flag.pk:before {
+  background-image: url(../flags/4x3/pk.svg);
+}
+.flag.pk.squared:before {
+  background-image: url(../flags/1x1/pk.svg);
+}
+.flag.pl:before {
+  background-image: url(../flags/4x3/pl.svg);
+}
+.flag.pl.squared:before {
+  background-image: url(../flags/1x1/pl.svg);
+}
+.flag.pm:before {
+  background-image: url(../flags/4x3/pm.svg);
+}
+.flag.pm.squared:before {
+  background-image: url(../flags/1x1/pm.svg);
+}
+.flag.pn:before {
+  background-image: url(../flags/4x3/pn.svg);
+}
+.flag.pn.squared:before {
+  background-image: url(../flags/1x1/pn.svg);
+}
+.flag.pr:before {
+  background-image: url(../flags/4x3/pr.svg);
+}
+.flag.pr.squared:before {
+  background-image: url(../flags/1x1/pr.svg);
+}
+.flag.ps:before {
+  background-image: url(../flags/4x3/ps.svg);
+}
+.flag.ps.squared:before {
+  background-image: url(../flags/1x1/ps.svg);
+}
+.flag.pt:before {
+  background-image: url(../flags/4x3/pt.svg);
+}
+.flag.pt.squared:before {
+  background-image: url(../flags/1x1/pt.svg);
+}
+.flag.pw:before {
+  background-image: url(../flags/4x3/pw.svg);
+}
+.flag.pw.squared:before {
+  background-image: url(../flags/1x1/pw.svg);
+}
+.flag.py:before {
+  background-image: url(../flags/4x3/py.svg);
+}
+.flag.py.squared:before {
+  background-image: url(../flags/1x1/py.svg);
+}
+.flag.qa:before {
+  background-image: url(../flags/4x3/qa.svg);
+}
+.flag.qa.squared:before {
+  background-image: url(../flags/1x1/qa.svg);
+}
+.flag.re:before {
+  background-image: url(../flags/4x3/re.svg);
+}
+.flag.re.squared:before {
+  background-image: url(../flags/1x1/re.svg);
+}
+.flag.ro:before {
+  background-image: url(../flags/4x3/ro.svg);
+}
+.flag.ro.squared:before {
+  background-image: url(../flags/1x1/ro.svg);
+}
+.flag.rs:before {
+  background-image: url(../flags/4x3/rs.svg);
+}
+.flag.rs.squared:before {
+  background-image: url(../flags/1x1/rs.svg);
+}
+.flag.ru:before {
+  background-image: url(../flags/4x3/ru.svg);
+}
+.flag.ru.squared:before {
+  background-image: url(../flags/1x1/ru.svg);
+}
+.flag.rw:before {
+  background-image: url(../flags/4x3/rw.svg);
+}
+.flag.rw.squared:before {
+  background-image: url(../flags/1x1/rw.svg);
+}
+.flag.sa:before {
+  background-image: url(../flags/4x3/sa.svg);
+}
+.flag.sa.squared:before {
+  background-image: url(../flags/1x1/sa.svg);
+}
+.flag.sb:before {
+  background-image: url(../flags/4x3/sb.svg);
+}
+.flag.sb.squared:before {
+  background-image: url(../flags/1x1/sb.svg);
+}
+.flag.sc:before {
+  background-image: url(../flags/4x3/sc.svg);
+}
+.flag.sc.squared:before {
+  background-image: url(../flags/1x1/sc.svg);
+}
+.flag.sd:before {
+  background-image: url(../flags/4x3/sd.svg);
+}
+.flag.sd.squared:before {
+  background-image: url(../flags/1x1/sd.svg);
+}
+.flag.se:before {
+  background-image: url(../flags/4x3/se.svg);
+}
+.flag.se.squared:before {
+  background-image: url(../flags/1x1/se.svg);
+}
+.flag.sg:before {
+  background-image: url(../flags/4x3/sg.svg);
+}
+.flag.sg.squared:before {
+  background-image: url(../flags/1x1/sg.svg);
+}
+.flag.sh:before {
+  background-image: url(../flags/4x3/sh.svg);
+}
+.flag.sh.squared:before {
+  background-image: url(../flags/1x1/sh.svg);
+}
+.flag.si:before {
+  background-image: url(../flags/4x3/si.svg);
+}
+.flag.si.squared:before {
+  background-image: url(../flags/1x1/si.svg);
+}
+.flag.sj:before {
+  background-image: url(../flags/4x3/sj.svg);
+}
+.flag.sj.squared:before {
+  background-image: url(../flags/1x1/sj.svg);
+}
+.flag.sk:before {
+  background-image: url(../flags/4x3/sk.svg);
+}
+.flag.sk.squared:before {
+  background-image: url(../flags/1x1/sk.svg);
+}
+.flag.sl:before {
+  background-image: url(../flags/4x3/sl.svg);
+}
+.flag.sl.squared:before {
+  background-image: url(../flags/1x1/sl.svg);
+}
+.flag.sm:before {
+  background-image: url(../flags/4x3/sm.svg);
+}
+.flag.sm.squared:before {
+  background-image: url(../flags/1x1/sm.svg);
+}
+.flag.sn:before {
+  background-image: url(../flags/4x3/sn.svg);
+}
+.flag.sn.squared:before {
+  background-image: url(../flags/1x1/sn.svg);
+}
+.flag.so:before {
+  background-image: url(../flags/4x3/so.svg);
+}
+.flag.so.squared:before {
+  background-image: url(../flags/1x1/so.svg);
+}
+.flag.sr:before {
+  background-image: url(../flags/4x3/sr.svg);
+}
+.flag.sr.squared:before {
+  background-image: url(../flags/1x1/sr.svg);
+}
+.flag.ss:before {
+  background-image: url(../flags/4x3/ss.svg);
+}
+.flag.ss.squared:before {
+  background-image: url(../flags/1x1/ss.svg);
+}
+.flag.st:before {
+  background-image: url(../flags/4x3/st.svg);
+}
+.flag.st.squared:before {
+  background-image: url(../flags/1x1/st.svg);
+}
+.flag.sv:before {
+  background-image: url(../flags/4x3/sv.svg);
+}
+.flag.sv.squared:before {
+  background-image: url(../flags/1x1/sv.svg);
+}
+.flag.sx:before {
+  background-image: url(../flags/4x3/sx.svg);
+}
+.flag.sx.squared:before {
+  background-image: url(../flags/1x1/sx.svg);
+}
+.flag.sy:before {
+  background-image: url(../flags/4x3/sy.svg);
+}
+.flag.sy.squared:before {
+  background-image: url(../flags/1x1/sy.svg);
+}
+.flag.sz:before {
+  background-image: url(../flags/4x3/sz.svg);
+}
+.flag.sz.squared:before {
+  background-image: url(../flags/1x1/sz.svg);
+}
+.flag.tc:before {
+  background-image: url(../flags/4x3/tc.svg);
+}
+.flag.tc.squared:before {
+  background-image: url(../flags/1x1/tc.svg);
+}
+.flag.td:before {
+  background-image: url(../flags/4x3/td.svg);
+}
+.flag.td.squared:before {
+  background-image: url(../flags/1x1/td.svg);
+}
+.flag.tf:before {
+  background-image: url(../flags/4x3/tf.svg);
+}
+.flag.tf.squared:before {
+  background-image: url(../flags/1x1/tf.svg);
+}
+.flag.tg:before {
+  background-image: url(../flags/4x3/tg.svg);
+}
+.flag.tg.squared:before {
+  background-image: url(../flags/1x1/tg.svg);
+}
+.flag.th:before {
+  background-image: url(../flags/4x3/th.svg);
+}
+.flag.th.squared:before {
+  background-image: url(../flags/1x1/th.svg);
+}
+.flag.tj:before {
+  background-image: url(../flags/4x3/tj.svg);
+}
+.flag.tj.squared:before {
+  background-image: url(../flags/1x1/tj.svg);
+}
+.flag.tk:before {
+  background-image: url(../flags/4x3/tk.svg);
+}
+.flag.tk.squared:before {
+  background-image: url(../flags/1x1/tk.svg);
+}
+.flag.tl:before {
+  background-image: url(../flags/4x3/tl.svg);
+}
+.flag.tl.squared:before {
+  background-image: url(../flags/1x1/tl.svg);
+}
+.flag.tm:before {
+  background-image: url(../flags/4x3/tm.svg);
+}
+.flag.tm.squared:before {
+  background-image: url(../flags/1x1/tm.svg);
+}
+.flag.tn:before {
+  background-image: url(../flags/4x3/tn.svg);
+}
+.flag.tn.squared:before {
+  background-image: url(../flags/1x1/tn.svg);
+}
+.flag.to:before {
+  background-image: url(../flags/4x3/to.svg);
+}
+.flag.to.squared:before {
+  background-image: url(../flags/1x1/to.svg);
+}
+.flag.tr:before {
+  background-image: url(../flags/4x3/tr.svg);
+}
+.flag.tr.squared:before {
+  background-image: url(../flags/1x1/tr.svg);
+}
+.flag.tt:before {
+  background-image: url(../flags/4x3/tt.svg);
+}
+.flag.tt.squared:before {
+  background-image: url(../flags/1x1/tt.svg);
+}
+.flag.tv:before {
+  background-image: url(../flags/4x3/tv.svg);
+}
+.flag.tv.squared:before {
+  background-image: url(../flags/1x1/tv.svg);
+}
+.flag.tw:before {
+  background-image: url(../flags/4x3/tw.svg);
+}
+.flag.tw.squared:before {
+  background-image: url(../flags/1x1/tw.svg);
+}
+.flag.tz:before {
+  background-image: url(../flags/4x3/tz.svg);
+}
+.flag.tz.squared:before {
+  background-image: url(../flags/1x1/tz.svg);
+}
+.flag.ua:before {
+  background-image: url(../flags/4x3/ua.svg);
+}
+.flag.ua.squared:before {
+  background-image: url(../flags/1x1/ua.svg);
+}
+.flag.ug:before {
+  background-image: url(../flags/4x3/ug.svg);
+}
+.flag.ug.squared:before {
+  background-image: url(../flags/1x1/ug.svg);
+}
+.flag.um:before {
+  background-image: url(../flags/4x3/um.svg);
+}
+.flag.um.squared:before {
+  background-image: url(../flags/1x1/um.svg);
+}
+.flag.us:before {
+  background-image: url(../flags/4x3/us.svg);
+}
+.flag.us.squared:before {
+  background-image: url(../flags/1x1/us.svg);
+}
+.flag.uy:before {
+  background-image: url(../flags/4x3/uy.svg);
+}
+.flag.uy.squared:before {
+  background-image: url(../flags/1x1/uy.svg);
+}
+.flag.uz:before {
+  background-image: url(../flags/4x3/uz.svg);
+}
+.flag.uz.squared:before {
+  background-image: url(../flags/1x1/uz.svg);
+}
+.flag.va:before {
+  background-image: url(../flags/4x3/va.svg);
+}
+.flag.va.squared:before {
+  background-image: url(../flags/1x1/va.svg);
+}
+.flag.vc:before {
+  background-image: url(../flags/4x3/vc.svg);
+}
+.flag.vc.squared:before {
+  background-image: url(../flags/1x1/vc.svg);
+}
+.flag.ve:before {
+  background-image: url(../flags/4x3/ve.svg);
+}
+.flag.ve.squared:before {
+  background-image: url(../flags/1x1/ve.svg);
+}
+.flag.vg:before {
+  background-image: url(../flags/4x3/vg.svg);
+}
+.flag.vg.squared:before {
+  background-image: url(../flags/1x1/vg.svg);
+}
+.flag.vi:before {
+  background-image: url(../flags/4x3/vi.svg);
+}
+.flag.vi.squared:before {
+  background-image: url(../flags/1x1/vi.svg);
+}
+.flag.vn:before {
+  background-image: url(../flags/4x3/vn.svg);
+}
+.flag.vn.squared:before {
+  background-image: url(../flags/1x1/vn.svg);
+}
+.flag.vu:before {
+  background-image: url(../flags/4x3/vu.svg);
+}
+.flag.vu.squared:before {
+  background-image: url(../flags/1x1/vu.svg);
+}
+.flag.wf:before {
+  background-image: url(../flags/4x3/wf.svg);
+}
+.flag.wf.squared:before {
+  background-image: url(../flags/1x1/wf.svg);
+}
+.flag.ws:before {
+  background-image: url(../flags/4x3/ws.svg);
+}
+.flag.ws.squared:before {
+  background-image: url(../flags/1x1/ws.svg);
+}
+.flag.ye:before {
+  background-image: url(../flags/4x3/ye.svg);
+}
+.flag.ye.squared:before {
+  background-image: url(../flags/1x1/ye.svg);
+}
+.flag.yt:before {
+  background-image: url(../flags/4x3/yt.svg);
+}
+.flag.yt.squared:before {
+  background-image: url(../flags/1x1/yt.svg);
+}
+.flag.za:before {
+  background-image: url(../flags/4x3/za.svg);
+}
+.flag.za.squared:before {
+  background-image: url(../flags/1x1/za.svg);
+}
+.flag.zm:before {
+  background-image: url(../flags/4x3/zm.svg);
+}
+.flag.zm.squared:before {
+  background-image: url(../flags/1x1/zm.svg);
+}
+.flag.zw:before {
+  background-image: url(../flags/4x3/zw.svg);
+}
+.flag.zw.squared:before {
+  background-image: url(../flags/1x1/zw.svg);
+}
+.flag.es-ct:before {
+  background-image: url(../flags/4x3/es-ct.svg);
+}
+.flag.es-ct.squared:before {
+  background-image: url(../flags/1x1/es-ct.svg);
+}
+.flag.eu:before {
+  background-image: url(../flags/4x3/eu.svg);
+}
+.flag.eu.squared:before {
+  background-image: url(../flags/1x1/eu.svg);
+}
+.flag.gb-eng:before {
+  background-image: url(../flags/4x3/gb-eng.svg);
+}
+.flag.gb-eng.squared:before {
+  background-image: url(../flags/1x1/gb-eng.svg);
+}
+.flag.gb-nir:before {
+  background-image: url(../flags/4x3/gb-nir.svg);
+}
+.flag.gb-nir.squared:before {
+  background-image: url(../flags/1x1/gb-nir.svg);
+}
+.flag.gb-sct:before {
+  background-image: url(../flags/4x3/gb-sct.svg);
+}
+.flag.gb-sct.squared:before {
+  background-image: url(../flags/1x1/gb-sct.svg);
+}
+.flag.gb-wls:before {
+  background-image: url(../flags/4x3/gb-wls.svg);
+}
+.flag.gb-wls.squared:before {
+  background-image: url(../flags/1x1/gb-wls.svg);
+}
+.flag.un:before {
+  background-image: url(../flags/4x3/un.svg);
+}
+.flag.un.squared:before {
+  background-image: url(../flags/1x1/un.svg);
+}
+.flag.xk:before {
+  background-image: url(../flags/4x3/xk.svg);
+}
+.flag.xk.squared:before {
+  background-image: url(../flags/1x1/xk.svg);
+}
